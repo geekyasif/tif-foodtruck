@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Grilled Tomatoes at Home",
+    "desc": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard...",
+    "image": "food1.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Delicious Pasta Feast",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard...",
+    "image": "food2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Mouthwatering Sushi Delight",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard...",
+    "image": "food3.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Classic Burger Delight",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard...",
+    "image": "food4.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Gourmet Pizza Extravaganza",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard...",
+    "image": "food5.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Tantalizing Dessert Delight",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard...",
+    "image": "food6.jpeg"
+  }
+]
